@@ -13,8 +13,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 💬 Ask me about web development, programming, or tech in general
 - ⚡ Fun fact: I debug with console.log() and I'm not ashamed!
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -69,8 +67,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 </div>
 
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -78,8 +74,6 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   ![Snake animation](https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake-dark.svg)
   
 </div>
-
----
 
 <div align="center">
   
