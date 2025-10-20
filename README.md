@@ -79,8 +79,8 @@ Backend & Frameworks
 Database
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Database"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
