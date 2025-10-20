@@ -1,8 +1,6 @@
-# Hi there, I'm Andrew Prasetya 👋
-
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm Andrew;Full+Stack+Developer)
   
 </div>
 
