@@ -63,7 +63,7 @@ print(me.say_hi())
 
 ### 🛠️ Tech Arsenal
 
-# Languages
+#### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,php,java,c,cpp" alt="Languages"/>
