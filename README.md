@@ -28,31 +28,15 @@ class Developer:
         self.languages_spoken = ["id_ID", "en_US"]
 
         self.tech_stack = {
-            "languages": ["Python", "JavaScript", "TypeScript", "PHP", "Java"],
-            "frontend": ["React", "Next.js", "Vue.js", "TailwindCSS"],
-            "backend": ["Laravel", "FastAPI", "Node.js", "Django", "Express"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
-            "tools": ["Docker", "Git", "AWS", "Linux", "Nginx"]
+            "languages": ["Python", "JavaScript", "PHP", "Java", "C", "C++", "Kotlin"],
+            "frontend": ["React", "Vue.js", "TailwindCSS"],
+            "backend": ["Laravel", "Spring", "Flask", "Django", "Express"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Oracle"],
         }
-
-        self.current_focus = [
-            "Building scalable web applications",
-            "Teaching & mentoring as TA/Asdos",
-            "Contributing to open source",
-            "Exploring cloud-native architectures"
-        ]
-
-        self.challenge = "Crafting seamless experiences across the entire stack"
-        self.philosophy = "Clean code > Clever code"
 
     def say_hi(self):
         return """
         👋 Thanks for dropping by!
-
-        I'm passionate about transforming ideas into elegant, scalable solutions.
-        Whether it's crafting intuitive frontends or architecting robust backends,
-        I love building software that makes a real difference.
-
         Let's connect and create something amazing together! ☕
         """
 
@@ -78,21 +62,13 @@ print(me.say_hi())
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,spring,flask" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=laravel,spring,flask,postgres,mongodb,mysql,redis,sqlite" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
-
-### Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Database"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### DevOps & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
-</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 GitHub Analytics
