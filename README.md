@@ -60,26 +60,6 @@ class Developer:
 me = Developer()
 print(me.say_hi())
 ```
-
-### 🎯 What Drives Me
-
-- **💡 Problem Solver** - Breaking down complex challenges into elegant, maintainable solutions
-- **🌱 Continuous Learner** - Always exploring emerging technologies and industry best practices
-- **🤝 Open Source Enthusiast** - Contributing to the community and learning from others
-- **📚 Educator at Heart** - Helping fellow students grow through TA/Asdos responsibilities
-- **⚡ Performance Focused** - Obsessed with optimization and writing efficient code
-- **🏗️ End-to-End Builder** - From concept to deployment, I enjoy the entire development lifecycle
-
-### 💼 What I'm Up To
-
-- 🔭 Managing teaching assistant duties while building full-stack applications
-- 🚀 Working on projects leveraging Next.js, FastAPI, and modern web tech
-- 📖 Deep diving into microservices, async patterns, and cloud architecture
-- 🤖 Exploring AI integration in web applications
-- 🌐 Creating tools that improve developer workflows and productivity
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🛠️ Tech Arsenal
 
 <details open>
