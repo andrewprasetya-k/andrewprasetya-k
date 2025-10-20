@@ -2,7 +2,6 @@
   
 <img src='src/banner.png' alt='Personal banner showing Andrew Prasetya, Full Stack Developer'>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Andrew+Prasetya+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Innovative+Solutions+%F0%9F%92%A1;Let's+Create+Something+Amazing!)
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -239,6 +238,8 @@ const andrew = {
 ![Stars](https://img.shields.io/github/stars/andrewprasetya-k?style=for-the-badge&color=58a6ff&labelColor=0d1117)
 
 <br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Andrew+Prasetya+%F0%9F%91%8B;Let's+Create+Something+Amazing!)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
 
