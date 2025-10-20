@@ -1,6 +1,7 @@
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=32&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+Andrew+Here;Full+Stack+Developer;Let%27s+Work+Together!)
+
 </div>
 
 ---
@@ -20,11 +21,15 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 <div align="left">
 
+### Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
