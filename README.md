@@ -1,19 +1,19 @@
 <div align="center">
 <img src='src/banner.png' alt='Personal banner showing Andrew Prasetya, Full Stack Developer'>
-<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=32&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+Andrew+Here;Full+Stack+Developer;Let%27s+Work+Together!) -->
-
+<!-- Typing SVG bisa diaktifkan di bawah jika mau -->
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=60&pause=600&color=7EE787&center=true&vCenter=true&random=false&width=1200&lines=Hi!+Andrew+Here;Full+Stack+Developer;Let's+Work+Together!) -->
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating innovative solutions and contributing to open source. I believe in writing clean, maintainable code and continuous learning.
+Hi! I'm Andrew, a Full Stack Developer passionate about creating innovative solutions, contributing to open source, and learning continuously. I love clean, maintainable code and building projects that make a difference.  
 
-- 🔭 Currently working on exciting projects
-- 🌱 Learning new technologies every day
-- 💬 Ask me about web development, programming, or tech in general
-- ⚡ Fun fact: I debug with console.log() and I'm not ashamed!
+- 🔭 Currently managing TA / asdos duties and exciting personal projects  
+- 🌱 Always exploring new technologies like Next.js, FastAPI, and modern web tools  
+- 💬 Ask me about programming, web development, or problem-solving in tech  
+- ⚡ Fun fact: I debug with console.log() and enjoy optimizing workflows  
 
 ---
 
@@ -22,38 +22,32 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 <div align="left">
 
 ### Frameworks
-
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Database
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Tools & Platforms
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
