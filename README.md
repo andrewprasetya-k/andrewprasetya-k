@@ -1,5 +1,5 @@
 <div align="center">
-<img src='src/bg.jpg'>
+<img src='src/bg.jpeg'>
 <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=32&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+Andrew+Here;Full+Stack+Developer;Let%27s+Work+Together!) -->
 
 </div>
