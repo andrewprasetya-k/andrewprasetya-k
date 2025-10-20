@@ -120,40 +120,6 @@ DevOps & Tools
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/andrewprasetya-k/MobileAcademicManagement-Siasat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewprasetya-k&repo=MobileAcademicManagement-Siasat&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/CZY774/tr-pbp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy774&repo=tr-pbp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-### 🏆 Top Contributed Repositories
-
-<div align="center">
-
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=andrewprasetya-k&limit=6&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/andrewprasetya-k)
-
-</div>
-
-<details>
-<summary><b>🔥 More Projects</b></summary>
-<br>
-
-- 🚀 [**Project Name**](https://github.com/andrewprasetya-k/repo) - Brief description of what it does
-- 💡 [**Another Project**](https://github.com/andrewprasetya-k/repo) - What makes this special
-- 🎯 [**Cool Thing**](https://github.com/andrewprasetya-k/repo) - Tech stack & purpose
-- 🌟 [**Awesome Tool**](https://github.com/andrewprasetya-k/repo) - Why people should check it out
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎯 Random Dev Quote
 
 <div align="center">
@@ -175,7 +141,4 @@ DevOps & Tools
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
-
-**⭐️ From [andrewprasetya-k](https://github.com/andrewprasetya-k) with 💚**
-
 </div>
