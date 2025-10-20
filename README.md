@@ -214,21 +214,6 @@ print(me.say_hi())
 
 ## 💼 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Building Scalable Web Applications with Next.js](https://yourblog.com)
-- [Understanding Async Programming in JavaScript](https://yourblog.com)
-- [My Journey with FastAPI & Modern Python](https://yourblog.com)
-- [Clean Code Principles Every Developer Should Know](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Random Dev Quote
