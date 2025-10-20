@@ -65,30 +65,30 @@ print(me.say_hi())
 
 #### Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,php,java,c,cpp" alt="Languages"/>
 </p>
 
-# Frontend
+#### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vue,tailwind" alt="Frontend"/>
 </p>
 
-# Backend
+#### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,spring,flask" alt="Backend"/>
 </p>
 
-# Database
+#### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Database"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-# DevOps & Tools
+#### DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
