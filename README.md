@@ -31,11 +31,13 @@ class Developer:
             "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Oracle"],
         }
 
-    def say_hi(self):
-        return """
-        👋 Thanks for dropping by!
-        Let's connect and create something amazing together! ☕
-        """
+def say_hi(self):
+    return """
+    👋 Hello there!.
+    I write code, debug with coffee, and love turning problems into elegant solutions.
+    Open to collabs! ☕💻
+    """
+
 
 # Initialize
 me = Developer()
