@@ -25,11 +25,10 @@ class Developer:
         self.languages_spoken = ["id_ID", "en_US"]
 
         self.tech_stack = {
-            "languages": ["Python", "JavaScript", "TypeScript", "PHP", "Java"],
+            "languages": ["Python", "JavaScript", "PHP", "Java", "C++", "C"],
             "frontend": ["React", "Next.js", "Vue.js", "TailwindCSS"],
-            "backend": ["Laravel", "FastAPI", "Node.js", "Django", "Express"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
-            "tools": ["Docker", "Git", "AWS", "Linux", "Nginx"]
+            "backend": ["Laravel", "Django"],
+            "databases": ["PostgreSQL", "MySQL","Oracle","MongoDB", "Redis"],
         }
 
         self.current_focus = [
@@ -40,7 +39,6 @@ class Developer:
         ]
 
         self.challenge = "Crafting seamless experiences across the entire stack"
-        self.philosophy = "Clean code > Clever code"
 
     def say_hi(self):
         return """
