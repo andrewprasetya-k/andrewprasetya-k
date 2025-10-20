@@ -16,7 +16,7 @@
 
 </div>
 
-## 🚀 About Me
+## ![Rocket](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) About Me
 
 ```python
 class Developer:
