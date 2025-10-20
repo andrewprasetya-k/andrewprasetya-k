@@ -78,7 +78,7 @@ Backend & Frameworks
 </p>
 Database
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Database"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle,mysql,redis,sqlite" alt="Database"/>
 </p>
 DevOps & Tools
 <p>
