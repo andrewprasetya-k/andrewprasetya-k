@@ -74,7 +74,7 @@ Frontend
 </p>
 Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,springboot,flask" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=laravel,spring,flask" alt="Backend"/>
 </p>
 Database
 <p>
