@@ -66,7 +66,7 @@ print(me.say_hi())
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,java,c,cpp" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,php,java,c,cpp,kotlin," alt="Languages"/>
 </p>
 
 ### Frontend
