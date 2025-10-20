@@ -1,6 +1,10 @@
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBarins+Mono&weight=600&size=28&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm+Andrew;Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm+Andrew;Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=28&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm+Andrew;Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=28&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm+Andrew;Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm+Andrew;Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=600&size=28&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm+Andrew;Full+Stack+Developer)
   
 </div>
 
