@@ -61,41 +61,41 @@ me = Developer()
 print(me.say_hi())
 ```
 
-### 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
-#### Languages
+### Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,php,java,c,cpp" alt="Languages"/>
 </p>
 
-#### Frontend
+### Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,tailwind" alt="Frontend"/>
 </p>
 
-#### Backend
+### Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,spring,flask" alt="Backend"/>
 </p>
 
-#### Database
+### Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Database"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-#### DevOps & Tools
+### DevOps & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   
@@ -112,7 +112,7 @@ print(me.say_hi())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
   
@@ -126,7 +126,7 @@ print(me.say_hi())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Random Dev Quote
+### 🎯 Random Dev Quote
 
 <div align="center">
 
