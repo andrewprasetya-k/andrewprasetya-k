@@ -1,7 +1,9 @@
 <div align="center">
   
 <img src='src/banner.png' alt='Personal banner showing Andrew Prasetya, Full Stack Developer'>
-<br><br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Andrew+Prasetya+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Innovative+Solutions+%F0%9F%92%A1;Let's+Create+Something+Amazing!)
+
 <p align="center">
   <!-- Core Stats -->
   <img src="https://img.shields.io/github/followers/andrewprasetya-k?label=Followers&style=for-the-badge&color=7ee787&labelColor=0d1117&logo=github" alt="Followers"/>
@@ -9,6 +11,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=$[%27total_stars%27]&url=https://api.github-star-counter.workers.dev/user/andrewprasetya-k&style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github" alt="Total Stars"/>
   <img src="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 </p>
+
 <p align="center">
   <!-- Activity Stats - Pilih yang cocok, hapus yang tidak -->
   <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=$.totalCommits&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=48bfe3&labelColor=0d1117&logo=github" alt="Total Commits"/>
@@ -16,6 +19,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Issues&query=$.totalIssues&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=80ffdb&labelColor=0d1117&logo=github" alt="Total Issues"/>
   <img src="https://img.shields.io/badge/dynamic/json?label=Contributed%20To&query=$.contributedTo&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=00f5d4&labelColor=0d1117&logo=github" alt="Contributed To"/>
 </p>
+
 <!-- Alternative: WakaTime Stats (uncomment jika sudah setup WakaTime) -->
 <!-- 
 <p align="center">
@@ -23,20 +27,21 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-WAKATIME-USERNAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
 </p>
 -->
+
 <!-- Alternative: Commit Activity per Year -->
 <!-- 
 <p align="center">
   <img src="https://img.shields.io/github/commit-activity/y/andrewprasetya-k/REPO-NAME?style=for-the-badge&color=7ee787&labelColor=0d1117&logo=github" alt="Commit Activity"/>
 </p>
 -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 </div>
 
 ## 🚀 About Me
 
-```typescript
+```python
 class Developer:
     def __init__(self):
         self.name = "Andrew Prasetya"
@@ -44,31 +49,33 @@ class Developer:
         self.location = "Jakarta, Indonesia 🇮🇩"
         self.education = "Computer Science Student"
         self.languages_spoken = ["id_ID", "en_US"]
-
+        
         self.tech_stack = {
-            "languages": ["Python", "JavaScript", "PHP", "Java", "C++", "C"],
+            "languages": ["Python", "JavaScript", "TypeScript", "PHP", "Java"],
             "frontend": ["React", "Next.js", "Vue.js", "TailwindCSS"],
-            "backend": ["Laravel", "Django"],
-            "databases": ["PostgreSQL", "MySQL","Oracle","MongoDB", "Redis"],
+            "backend": ["Laravel", "FastAPI", "Node.js", "Django", "Express"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
+            "tools": ["Docker", "Git", "AWS", "Linux", "Nginx"]
         }
-
+        
         self.current_focus = [
             "Building scalable web applications",
             "Teaching & mentoring as TA/Asdos",
             "Contributing to open source",
             "Exploring cloud-native architectures"
         ]
-
+        
         self.challenge = "Crafting seamless experiences across the entire stack"
-
+        self.philosophy = "Clean code > Clever code"
+    
     def say_hi(self):
         return """
         👋 Thanks for dropping by!
-
+        
         I'm passionate about transforming ideas into elegant, scalable solutions.
         Whether it's crafting intuitive frontends or architecting robust backends,
         I love building software that makes a real difference.
-
+        
         Let's connect and create something amazing together! ☕
         """
 
@@ -77,18 +84,22 @@ me = Developer()
 print(me.say_hi())
 ```
 
-<details>
-<summary>📖 More About Me</summary>
-<br>
+### 🎯 What Drives Me
 
-- 🎓 Computer Science student passionate about software engineering
-- 🔭 Currently managing TA/asdos duties while working on exciting side projects
-- 🌱 Always exploring cutting-edge technologies and best practices
-- 💬 Love discussing algorithms, system design, and dev workflows
-- ⚡ Believer in continuous learning and giving back to the community
-- 🎯 2024 Goals: Contribute more to open source & build impactful projects
+- **💡 Problem Solver** - Breaking down complex challenges into elegant, maintainable solutions
+- **🌱 Continuous Learner** - Always exploring emerging technologies and industry best practices  
+- **🤝 Open Source Enthusiast** - Contributing to the community and learning from others
+- **📚 Educator at Heart** - Helping fellow students grow through TA/Asdos responsibilities
+- **⚡ Performance Focused** - Obsessed with optimization and writing efficient code
+- **🏗️ End-to-End Builder** - From concept to deployment, I enjoy the entire development lifecycle
 
-</details>
+### 💼 What I'm Up To
+
+- 🔭 Managing teaching assistant duties while building full-stack applications
+- 🚀 Working on projects leveraging Next.js, FastAPI, and modern web tech
+- 📖 Deep diving into microservices, async patterns, and cloud architecture
+- 🤖 Exploring AI integration in web applications
+- 🌐 Creating tools that improve developer workflows and productivity
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -99,7 +110,6 @@ print(me.say_hi())
 <br>
 
 **Frameworks & Libraries**
-
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -109,7 +119,6 @@ print(me.say_hi())
 </p>
 
 **Languages**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -139,7 +148,6 @@ print(me.say_hi())
 <br>
 
 **Backend**
-
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
@@ -148,7 +156,6 @@ print(me.say_hi())
 </p>
 
 **Database**
-
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -259,7 +266,6 @@ print(me.say_hi())
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Building Scalable Web Applications with Next.js](https://yourblog.com)
 - [Understanding Async Programming in JavaScript](https://yourblog.com)
 - [My Journey with FastAPI & Modern Python](https://yourblog.com)
@@ -280,6 +286,13 @@ print(me.say_hi())
 
 <div align="center">
 
+### 💚 Support My Work
+
+<p>
+  <a href="https://www.buymeacoffee.com/yourhandle"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+  <a href="https://ko-fi.com/yourhandle"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+</p>
+
 ### 📊 Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andrewprasetya-k&color=7ee787&style=for-the-badge&label=Profile+Views)
@@ -288,6 +301,8 @@ print(me.say_hi())
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Andrew+Prasetya+%F0%9F%91%8B;Let's+Create+Something+Amazing!)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
+
+**⭐️ From [andrewprasetya-k](https://github.com/andrewprasetya-k) with 💚**
+
+</div>
