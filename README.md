@@ -1,88 +1,252 @@
 <div align="center">
+  
 <img src='src/banner.png' alt='Personal banner showing Andrew Prasetya, Full Stack Developer'>
-<!-- Typing SVG bisa diaktifkan di bawah jika mau -->
-<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=60&pause=600&color=7EE787&center=true&vCenter=true&random=false&width=1200&lines=Hi!+Andrew+Here;Full+Stack+Developer;Let's+Work+Together!) -->
-</div>
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Andrew+Prasetya+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Innovative+Solutions+%F0%9F%92%A1;Let's+Create+Something+Amazing!)
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ## 🚀 About Me
 
-Hi! I'm Andrew, a Full Stack Developer passionate about creating innovative solutions, contributing to open source, and learning continuously. I love clean, maintainable code and building projects that make a difference.  
+```typescript
+const andrew = {
+  role: "Full Stack Developer",
+  location: "Jakarta, Indonesia 🇮🇩",
+  currentFocus: ["TA/Asdos duties", "Open Source", "Modern Web Development"],
+  learning: ["Next.js", "FastAPI", "Cloud Architecture"],
+  askMeAbout: ["Web Dev", "Problem Solving", "Tech Optimization"],
+  funFact: "I debug with console.log() and I'm proud of it! 🐛",
+  lifePhilosophy: "Clean code > Clever code",
+};
+```
 
-- 🔭 Currently managing TA / asdos duties and exciting personal projects  
-- 🌱 Always exploring new technologies like Next.js, FastAPI, and modern web tools  
-- 💬 Ask me about programming, web development, or problem-solving in tech  
-- ⚡ Fun fact: I debug with console.log() and enjoy optimizing workflows  
+<details>
+<summary>📖 More About Me</summary>
+<br>
 
----
+- 🎓 Computer Science student passionate about software engineering
+- 🔭 Currently managing TA/asdos duties while working on exciting side projects
+- 🌱 Always exploring cutting-edge technologies and best practices
+- 💬 Love discussing algorithms, system design, and dev workflows
+- ⚡ Believer in continuous learning and giving back to the community
+- 🎯 2024 Goals: Contribute more to open source & build impactful projects
 
-## 🛠️ Tech Stack
+</details>
 
-<div align="left">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+## 🛠️ Tech Arsenal
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<details open>
+<summary><b>🎯 Primary Stack</b></summary>
+<br>
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frameworks & Libraries**
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Languages**
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
 
-</div>
+</details>
 
----
+<details>
+<summary><b>🎨 Frontend Technologies</b></summary>
+<br>
 
-## 📊 GitHub Stats
+<p>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+**Database**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+</details>
+
+<details>
+<summary><b>🔧 DevOps & Tools</b></summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+</p>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewprasetya-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewprasetya-k&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7ee787&fire=58a6ff&currStreakLabel=c9d1d9)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewprasetya-k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9)
+<a href="https://github.com/andrewprasetya-k">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewprasetya-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewprasetya-k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8"/>
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewprasetya-k&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7ee787&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewprasetya-k&theme=github-dark&hide_border=true&bg_color=0d1117&color=7ee787&line=58a6ff&point=c9d1d9&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=andrewprasetya-k&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Snake
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake-dark.svg)
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake.svg">
+</picture>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📌 Featured Projects
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=andrewprasetya-k&color=7ee787&style=flat-square)
-  
+
+<a href="https://github.com/andrewprasetya-k/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewprasetya-k&repo=project-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/andrewprasetya-k/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewprasetya-k&repo=project-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
 </div>
+
+<details>
+<summary><b>🔥 More Projects</b></summary>
+<br>
+
+- 🚀 [**Project Name**](https://github.com/andrewprasetya-k/repo) - Brief description of what it does
+- 💡 [**Another Project**](https://github.com/andrewprasetya-k/repo) - What makes this special
+- 🎯 [**Cool Thing**](https://github.com/andrewprasetya-k/repo) - Tech stack & purpose
+- 🌟 [**Awesome Tool**](https://github.com/andrewprasetya-k/repo) - Why people should check it out
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Building Scalable Web Applications with Next.js](https://yourblog.com)
+- [Understanding Async Programming in JavaScript](https://yourblog.com)
+- [My Journey with FastAPI & Modern Python](https://yourblog.com)
+- [Clean Code Principles Every Developer Should Know](https://yourblog.com)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 💚 Support My Work
+
+<p>
+  <a href="https://www.buymeacoffee.com/yourhandle"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+  <a href="https://ko-fi.com/yourhandle"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+</p>
+
+### 📊 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=andrewprasetya-k&color=7ee787&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/andrewprasetya-k?style=for-the-badge&color=7ee787&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/andrewprasetya-k?style=for-the-badge&color=58a6ff&labelColor=0d1117)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
+
+**⭐️ From [andrewprasetya-k](https://github.com/andrewprasetya-k) with 💚**
