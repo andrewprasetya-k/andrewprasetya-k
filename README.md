@@ -66,7 +66,7 @@ print(me.say_hi())
 <div align="center">
 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,java,c,c++" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,php,java,c,cpp" alt="Languages"/>
 </p>
 Frontend
 <p>
@@ -82,7 +82,7 @@ Database
 </p>
 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,brew" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
 </p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
