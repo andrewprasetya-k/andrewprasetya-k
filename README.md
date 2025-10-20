@@ -6,9 +6,7 @@
 
 <p align="center">
   <!-- Core Stats -->
-  <img src="https://img.shields.io/github/followers/andrewprasetya-k?label=Followers&style=for-the-badge&color=7ee787&labelColor=0d1117&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Public Repos"/>
-  <img src="https://img.shields.io/github/stars/andrewprasetya-k?affiliations=OWNER&style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github&label=Total%20Stars" alt="Total Stars"/>
   <img src="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 </p>
 
@@ -87,7 +85,7 @@ print(me.say_hi())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🐍 Contribution Snake
+<!-- ### 🐍 Contribution Snake -->
 
 <div align="center">
   
@@ -113,7 +111,4 @@ print(me.say_hi())
 
 <div align="center">
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
 </div>
