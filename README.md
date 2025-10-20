@@ -1,8 +1,10 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=60&pause=600&color=7EE787&center=true&vCenter=true&random=false&width=1200&lines=Hi!+Andrew+Here;Full+Stack+Developer;Let%27s+Work+Together!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=32&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+Andrew+Here;Full+Stack+Developer+Let%27s+Work+Together!)
 
 </div>
+
+---
 
 ## 🚀 About Me
 
@@ -12,6 +14,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 🌱 Learning new technologies every day
 - 💬 Ask me about web development, programming, or tech in general
 - ⚡ Fun fact: I debug with console.log() and I'm not ashamed!
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -67,6 +71,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 </div>
 
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -74,6 +80,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   ![Snake animation](https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake-dark.svg)
   
 </div>
+
+---
 
 <div align="center">
   
