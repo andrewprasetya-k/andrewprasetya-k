@@ -1,7 +1,10 @@
 <div align="center">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=600&lines=Hi!+Andrew+Here;Full+Stack+Developer+Let%27s+Work+Together!)
 
 </div>
+
+---
 
 ## 🚀 About Me
 
@@ -11,6 +14,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 - 🌱 Learning new technologies every day
 - 💬 Ask me about web development, programming, or tech in general
 - ⚡ Fun fact: I debug with console.log() and I'm not ashamed!
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -52,6 +57,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -64,6 +71,8 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 </div>
 
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -72,59 +81,10 @@ I'm a passionate developer who loves creating innovative solutions and contribut
   
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=andrewprasetya-k&theme=github_dark&no-frame=true&no-bg=true&row=1&column=7)
-  
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrewprasetya-k&theme=github-dark&hide_border=true&bg_color=0d1117&color=7ee787&line=58a6ff&point=c9d1d9)
-  
-</div>
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrewprasetya-k&repo=your-awesome-project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/andrewprasetya-k/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrewprasetya-k&repo=another-cool-project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/andrewprasetya-k/another-cool-project)
-
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
-</div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [How to Build Scalable Applications](https://yourblog.com/post1)
-- [Understanding Async Programming](https://yourblog.com/post2)
-- [Best Practices for Clean Code](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=andrewprasetya-k&color=7ee787&style=flat-square&label=Profile+Views)
-  
-  ### ⭐️ From [andrewprasetya-k](https://github.com/andrewprasetya-k)
-  
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+  ![Profile Views](https://komarev.com/ghpvc/?username=andrewprasetya-k&color=7ee787&style=flat-square)
   
 </div>
