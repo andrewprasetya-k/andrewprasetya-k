@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" padding="10px">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=60&pause=600&color=7EE787&center=true&vCenter=true&random=false&width=1200&lines=Hi!+Andrew+Here;Full+Stack+Developer;Let%27s+Work+Together!)
 
