@@ -235,7 +235,7 @@ print(me.say_hi())
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=random&theme=dark&background=0d1117&color=7EE787)
+![Quote](https://quotes-github-readme.vercel.app/api?type=random&theme=dark&background=0D1117&color=F8F8FF)
 
 </div>
 
