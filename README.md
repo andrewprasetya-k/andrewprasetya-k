@@ -12,36 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <!-- Activity Stats - Reliable alternatives -->
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Gists&query=$.public_gists&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=48bfe3&labelColor=0d1117&logo=github" alt="Gists"/>
-  <img src="https://img.shields.io/badge/Joined-GitHub-64dfdf?style=for-the-badge&labelColor=0d1117&logo=github" alt="Joined"/>
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate-80ffdb?style=for-the-badge&labelColor=0d1117&logo=github" alt="Open to Collaborate"/>
-</p>
-
-<!-- Commit Counter menggunakan service berbeda -->
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=7ee787&labelColor=0d1117&label=Total%20Commits%20(2024)&query=%24.totalContributions&url=https://github-contributions-api.jogruber.de/v4/andrewprasetya-k?y=2024&style=for-the-badge&logo=github" alt="Commits 2024"/>
-</p>
-
-<!-- Alternative: Simple custom badges yang bisa Anda update manual -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7ee787?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Status"/>
-  <img src="https://img.shields.io/badge/Currently-Teaching%20%26%20Building-f0883e?style=for-the-badge&labelColor=0d1117" alt="Currently"/>
-</p>
-
-
-<!-- Alternative: WakaTime (need setup) -->
-
-<p align="center">
-  <a href="https://wakatime.com/@andrewprasetya-k">
-    <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-ID.svg?style=for-the-badge" alt="WakaTime"/>
-  </a>
-</p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
@@ -56,7 +26,7 @@ class Developer:
         self.location = "Jakarta, Indonesia 🇮🇩"
         self.education = "Computer Science Student"
         self.languages_spoken = ["id_ID", "en_US"]
-        
+
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "TypeScript", "PHP", "Java"],
             "frontend": ["React", "Next.js", "Vue.js", "TailwindCSS"],
@@ -64,25 +34,25 @@ class Developer:
             "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
             "tools": ["Docker", "Git", "AWS", "Linux", "Nginx"]
         }
-        
+
         self.current_focus = [
             "Building scalable web applications",
             "Teaching & mentoring as TA/Asdos",
             "Contributing to open source",
             "Exploring cloud-native architectures"
         ]
-        
+
         self.challenge = "Crafting seamless experiences across the entire stack"
         self.philosophy = "Clean code > Clever code"
-    
+
     def say_hi(self):
         return """
         👋 Thanks for dropping by!
-        
+
         I'm passionate about transforming ideas into elegant, scalable solutions.
         Whether it's crafting intuitive frontends or architecting robust backends,
         I love building software that makes a real difference.
-        
+
         Let's connect and create something amazing together! ☕
         """
 
@@ -94,7 +64,7 @@ print(me.say_hi())
 ### 🎯 What Drives Me
 
 - **💡 Problem Solver** - Breaking down complex challenges into elegant, maintainable solutions
-- **🌱 Continuous Learner** - Always exploring emerging technologies and industry best practices  
+- **🌱 Continuous Learner** - Always exploring emerging technologies and industry best practices
 - **🤝 Open Source Enthusiast** - Contributing to the community and learning from others
 - **📚 Educator at Heart** - Helping fellow students grow through TA/Asdos responsibilities
 - **⚡ Performance Focused** - Obsessed with optimization and writing efficient code
@@ -117,6 +87,7 @@ print(me.say_hi())
 <br>
 
 **Frameworks & Libraries**
+
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -126,6 +97,7 @@ print(me.say_hi())
 </p>
 
 **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -155,6 +127,7 @@ print(me.say_hi())
 <br>
 
 **Backend**
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
@@ -163,6 +136,7 @@ print(me.say_hi())
 </p>
 
 **Database**
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -281,6 +255,7 @@ print(me.say_hi())
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Building Scalable Web Applications with Next.js](https://yourblog.com)
 - [Understanding Async Programming in JavaScript](https://yourblog.com)
 - [My Journey with FastAPI & Modern Python](https://yourblog.com)
