@@ -182,10 +182,10 @@ print(me.say_hi())
 
 <div align="center">
 
-<a href="https://github.com/andrewprasetya-k/project-1">
+<a href="https://github.com/andrewprasetya-k/ttu">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewprasetya-k&repo=project-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/andrewprasetya-k/project-2">
+<a href="https://github.com/andrewprasetya-k/tr-pbp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewprasetya-k&repo=project-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
