@@ -78,7 +78,8 @@ Backend & Frameworks
 </p>
 Database
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,Oracle,mysql,redis,sqlite" alt="Database"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Database"/>
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 </p>
 DevOps & Tools
 <p>
@@ -129,7 +130,6 @@ DevOps & Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andrewprasetya-k&color=7ee787&style=for-the-badge&label=Profile+Views)
 
