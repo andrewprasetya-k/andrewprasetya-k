@@ -2,7 +2,6 @@
   
 <img src='src/banner.png' alt='Personal banner showing Andrew Prasetya, Full Stack Developer'>
 
-
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
@@ -17,15 +16,46 @@
 ## 🚀 About Me
 
 ```typescript
-const andrew = {
-  role: "Full Stack Developer",
-  location: "Jakarta, Indonesia 🇮🇩",
-  currentFocus: ["TA/Asdos duties", "Open Source", "Modern Web Development"],
-  learning: ["Next.js", "FastAPI", "Cloud Architecture"],
-  askMeAbout: ["Web Dev", "Problem Solving", "Tech Optimization"],
-  funFact: "I debug with console.log() and I'm proud of it! 🐛",
-  lifePhilosophy: "Clean code > Clever code",
-};
+class Developer:
+    def __init__(self):
+        self.name = "Andrew Prasetya"
+        self.role = "Full-Stack Developer"
+        self.location = "Jakarta, Indonesia 🇮🇩"
+        self.education = "Computer Science Student"
+        self.languages_spoken = ["id_ID", "en_US"]
+
+        self.tech_stack = {
+            "languages": ["Python", "JavaScript", "TypeScript", "PHP", "Java"],
+            "frontend": ["React", "Next.js", "Vue.js", "TailwindCSS"],
+            "backend": ["Laravel", "FastAPI", "Node.js", "Django", "Express"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
+            "tools": ["Docker", "Git", "AWS", "Linux", "Nginx"]
+        }
+
+        self.current_focus = [
+            "Building scalable web applications",
+            "Teaching & mentoring as TA/Asdos",
+            "Contributing to open source",
+            "Exploring cloud-native architectures"
+        ]
+
+        self.challenge = "Crafting seamless experiences across the entire stack"
+        self.philosophy = "Clean code > Clever code"
+
+    def say_hi(self):
+        return """
+        👋 Thanks for dropping by!
+
+        I'm passionate about transforming ideas into elegant, scalable solutions.
+        Whether it's crafting intuitive frontends or architecting robust backends,
+        I love building software that makes a real difference.
+
+        Let's connect and create something amazing together! ☕
+        """
+
+# Initialize
+me = Developer()
+print(me.say_hi())
 ```
 
 <details>
