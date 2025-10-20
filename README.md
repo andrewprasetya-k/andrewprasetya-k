@@ -71,26 +71,26 @@ print(me.say_hi())
 
 #### Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,tailwind" alt="Frontend"/>
 </p>
 
 #### Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,spring,flask" alt="Backend"/>
 </p>
 
 #### Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" alt="Database"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 #### DevOps & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
