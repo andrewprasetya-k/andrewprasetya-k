@@ -160,20 +160,6 @@ print(me.say_hi())
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewprasetya-k&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7ee787&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewprasetya-k&theme=github-dark&hide_border=true&bg_color=0d1117&color=7ee787&line=58a6ff&point=c9d1d9&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=andrewprasetya-k&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
