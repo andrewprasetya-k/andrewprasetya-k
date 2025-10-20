@@ -4,8 +4,8 @@
 <br><br>
 <p align="center">
   <img src="https://img.shields.io/github/followers/andrewprasetya-k?label=Followers&style=for-the-badge&color=7ee787&labelColor=0d1117&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/andrewprasetya-k?label=Total%20Stars&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repos&query=$.public_repos&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=$[%27total_stars%27]&url=https://api.github-star-counter.workers.dev/user/andrewprasetya-k&style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github" alt="Total Stars"/>
   <img src="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
