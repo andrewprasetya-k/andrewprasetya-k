@@ -23,9 +23,8 @@ class Developer:
     def __init__(self):
         self.name = "Andrew Prasetya"
         self.role = "Full-Stack Developer"
-        self.location = "Jakarta, Indonesia 🇮🇩"
+        self.location = "Tangerang, Indonesia"
         self.education = "Computer Science Student"
-        self.languages_spoken = ["id_ID", "en_US"]
 
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "PHP", "Java", "C", "C++", "Kotlin"],
@@ -56,13 +55,13 @@ print(me.say_hi())
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap" alt="Frontend"/>
 </p>
 
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,spring,flask,postgres,mongodb,mysql,redis,sqlite" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=flask,laravel,spring,postgres,mysql,sqlite,redis,mongodb" alt="Backend"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
@@ -113,8 +112,6 @@ print(me.say_hi())
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=andrewprasetya-k&color=7ee787&style=for-the-badge&label=Profile+Views)
 
 <br>
 
