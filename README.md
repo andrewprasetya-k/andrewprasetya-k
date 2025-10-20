@@ -8,32 +8,39 @@
   <!-- Core Stats -->
   <img src="https://img.shields.io/github/followers/andrewprasetya-k?label=Followers&style=for-the-badge&color=7ee787&labelColor=0d1117&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Public Repos"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=$[%27total_stars%27]&url=https://api.github-star-counter.workers.dev/user/andrewprasetya-k&style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/stars/andrewprasetya-k?affiliations=OWNER&style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github&label=Total%20Stars" alt="Total Stars"/>
   <img src="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <!-- Activity Stats - Pilih yang cocok, hapus yang tidak -->
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=$.totalCommits&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=48bfe3&labelColor=0d1117&logo=github" alt="Total Commits"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20PRs&query=$.totalPRs&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=64dfdf&labelColor=0d1117&logo=github" alt="Total PRs"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Issues&query=$.totalIssues&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=80ffdb&labelColor=0d1117&logo=github" alt="Total Issues"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Contributed%20To&query=$.contributedTo&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=00f5d4&labelColor=0d1117&logo=github" alt="Contributed To"/>
+  <!-- Activity Stats - Reliable alternatives -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Gists&query=$.public_gists&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=48bfe3&labelColor=0d1117&logo=github" alt="Gists"/>
+  <img src="https://img.shields.io/badge/Joined-GitHub-64dfdf?style=for-the-badge&labelColor=0d1117&logo=github" alt="Joined"/>
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-80ffdb?style=for-the-badge&labelColor=0d1117&logo=github" alt="Open to Collaborate"/>
 </p>
 
-<!-- Alternative: WakaTime Stats (uncomment jika sudah setup WakaTime) -->
-<!-- 
+<!-- Commit Counter menggunakan service berbeda -->
 <p align="center">
-  <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-ID.svg?style=for-the-badge&color=7ee787&labelColor=0d1117" alt="WakaTime"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-WAKATIME-USERNAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=7ee787&labelColor=0d1117&label=Total%20Commits%20(2024)&query=%24.totalContributions&url=https://github-contributions-api.jogruber.de/v4/andrewprasetya-k?y=2024&style=for-the-badge&logo=github" alt="Commits 2024"/>
 </p>
--->
 
-<!-- Alternative: Commit Activity per Year -->
-<!-- 
+<!-- Alternative: Simple custom badges yang bisa Anda update manual -->
+
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/andrewprasetya-k/REPO-NAME?style=for-the-badge&color=7ee787&labelColor=0d1117&logo=github" alt="Commit Activity"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7ee787?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+  <img src="https://img.shields.io/badge/Currently-Teaching%20%26%20Building-f0883e?style=for-the-badge&labelColor=0d1117" alt="Currently"/>
 </p>
--->
+
+
+<!-- Alternative: WakaTime (need setup) -->
+
+<p align="center">
+  <a href="https://wakatime.com/@andrewprasetya-k">
+    <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-ID.svg?style=for-the-badge" alt="WakaTime"/>
+  </a>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -240,6 +247,14 @@ print(me.say_hi())
 <a href="https://github.com/andrewprasetya-k/project-2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=andrewprasetya-k&repo=project-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
+
+</div>
+
+### 🏆 Top Contributed Repositories
+
+<div align="center">
+
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=andrewprasetya-k&limit=6&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/andrewprasetya-k)
 
 </div>
 
