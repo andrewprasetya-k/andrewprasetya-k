@@ -2,7 +2,7 @@
   
 <img src='src/banner.png' alt='Personal banner showing Andrew Prasetya, Full Stack Developer'>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Andrew+Prasetya+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Innovative+Solutions+%F0%9F%92%A1;Let's+Create+Something+Amazing!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+Let's+create+something+amazing!)
 
 <p align="center">
   <!-- Core Stats -->
@@ -60,6 +60,7 @@ class Developer:
 me = Developer()
 print(me.say_hi())
 ```
+
 ## 🛠️ Tech Arsenal
 
 <details open>
