@@ -66,15 +66,15 @@ print(me.say_hi())
 <div align="center">
 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,php,java" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,php,java,c,c++" alt="Languages"/>
 </p>
 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,bootstrap" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind" alt="Frontend"/>
 </p>
 Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,express,django,flask" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=laravel,springboot,flask" alt="Backend"/>
 </p>
 Database
 <p>
@@ -82,11 +82,9 @@ Database
 </p>
 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,nginx" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,brew" alt="Tools"/>
 </p>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
@@ -132,11 +130,8 @@ DevOps & Tools
 
 <div align="center">
 
-### 📊 Profile Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=andrewprasetya-k&color=7ee787&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/andrewprasetya-k?style=for-the-badge&color=7ee787&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/andrewprasetya-k?style=for-the-badge&color=58a6ff&labelColor=0d1117)
 
 <br>
 
