@@ -18,7 +18,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Languages
 
@@ -60,7 +60,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewprasetya-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9)
   
