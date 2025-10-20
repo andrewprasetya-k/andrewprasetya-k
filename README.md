@@ -1,13 +1,15 @@
 <div align="center">
   
 <img src='src/banner.png' alt='Personal banner showing Andrew Prasetya, Full Stack Developer'>
-<br>
+<br><br>
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://img.shields.io/github/followers/andrewprasetya-k?label=Followers&style=for-the-badge&color=7ee787&labelColor=0d1117&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/andrewprasetya-k?label=Total%20Stars&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repos&query=$.public_repos&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github" alt="Repos"/>
+  <img src="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -270,5 +272,3 @@ print(me.say_hi())
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=7EE787&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Andrew+Prasetya+%F0%9F%91%8B;Let's+Create+Something+Amazing!)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
-
-**⭐️ From [andrewprasetya-k](https://github.com/andrewprasetya-k) with 💚**
