@@ -3,11 +3,32 @@
 <img src='src/banner.png' alt='Personal banner showing Andrew Prasetya, Full Stack Developer'>
 <br><br>
 <p align="center">
+  <!-- Core Stats -->
   <img src="https://img.shields.io/github/followers/andrewprasetya-k?label=Followers&style=for-the-badge&color=7ee787&labelColor=0d1117&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Public Repos"/>
   <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=$[%27total_stars%27]&url=https://api.github-star-counter.workers.dev/user/andrewprasetya-k&style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github" alt="Total Stars"/>
   <img src="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 </p>
+<p align="center">
+  <!-- Activity Stats - Pilih yang cocok, hapus yang tidak -->
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=$.totalCommits&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=48bfe3&labelColor=0d1117&logo=github" alt="Total Commits"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20PRs&query=$.totalPRs&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=64dfdf&labelColor=0d1117&logo=github" alt="Total PRs"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Issues&query=$.totalIssues&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=80ffdb&labelColor=0d1117&logo=github" alt="Total Issues"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Contributed%20To&query=$.contributedTo&url=https://api.github-contributions.vercel.app/api/v1/andrewprasetya-k&style=for-the-badge&color=00f5d4&labelColor=0d1117&logo=github" alt="Contributed To"/>
+</p>
+<!-- Alternative: WakaTime Stats (uncomment jika sudah setup WakaTime) -->
+<!-- 
+<p align="center">
+  <img src="https://wakatime.com/badge/user/YOUR-WAKATIME-ID.svg?style=for-the-badge&color=7ee787&labelColor=0d1117" alt="WakaTime"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-WAKATIME-USERNAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
+</p>
+-->
+<!-- Alternative: Commit Activity per Year -->
+<!-- 
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/andrewprasetya-k/REPO-NAME?style=for-the-badge&color=7ee787&labelColor=0d1117&logo=github" alt="Commit Activity"/>
+</p>
+-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
