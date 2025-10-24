@@ -1,0 +1,29 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # update tiap hari jam 00:00 UTC
+  workflow_dispatch:       # bisa dijalankan manual
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Generate Snake
+      uses: andrewprasetya/github-contribution-snake-action@v1
+      with:
+        github_user: andrewprasetya-k
+        output_file: output/github-snake.svg
+
+    - name: Commit & push SVG
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add output/github-snake.svg
+        git commit -m "Update GitHub snake" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
