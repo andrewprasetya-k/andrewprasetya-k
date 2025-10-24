@@ -16,6 +16,7 @@
 
 ## 🚀 About Me
 
+<a href="#">
 ```python
 class Developer:
     def __init__(self):
@@ -32,16 +33,18 @@ class Developer:
         }
 
 def say_hi(self):
-    return """
-    👋 Hello there!.
-    I write code, debug with coffee, and love turning problems into elegant solutions.
-    Open to collabs! ☕💻
-    """
-
+return """
+👋 Hello there!.
+I write code, debug with coffee, and love turning problems into elegant solutions.
+Open to collabs! ☕💻
+"""
+</a>
 
 # Initialize
+
 me = Developer()
 print(me.say_hi())
+
 ```
 
 ## 🛠️ Tech Arsenal
@@ -73,8 +76,8 @@ print(me.say_hi())
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-<a href="https://github.com/andrewprasetya-k">
+
+<a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewprasetya-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewprasetya-k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8"/>
 </a>
@@ -90,7 +93,6 @@ print(me.say_hi())
 ### Contribution
 
 <div align="center">
-
 
 ![GitHub contribution snake](https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake.svg)
 
@@ -115,3 +117,4 @@ print(me.say_hi())
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%">
 </div>
+```
