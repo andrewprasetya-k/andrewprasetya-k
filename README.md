@@ -91,7 +91,7 @@ print(me.say_hi())
 
 <div align="center">
 
-![GitHub contribution snake](https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/main/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake-dark.svg)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake-dark.svg">
