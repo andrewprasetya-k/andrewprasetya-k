@@ -72,13 +72,13 @@ print(me.say_hi())
 ### Frontend
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap" alt="Frontend"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,nextjs" alt="Frontend"/></a>
 </p>
 
 ### Backend
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=flask,laravel,spring" alt="Backend 1"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask,laravel,spring,nestjs" alt="Backend 1"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" alt="Backend 2"/></a>
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
