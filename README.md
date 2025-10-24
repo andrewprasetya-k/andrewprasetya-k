@@ -65,36 +65,23 @@ print(me.say_hi())
 ### Languages
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,php,java,c,cpp,kotlin">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,php,java,c,cpp,kotlin&theme=light">
-    <img src="https://skillicons.dev/icons?i=python,js,php,java,c,cpp,kotlin" alt="Languages"/>
-  </picture>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,js,php,java" alt="Languages 1"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,kotlin" alt="Languages 2"/></a>
 </p>
 
 ### Frontend
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap&theme=light">
-    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap" alt="Frontend"/>
-  </picture>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap" alt="Frontend"/></a>
 </p>
 
 ### Backend
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flask,laravel,spring,postgres,mysql,sqlite,redis,mongodb">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flask,laravel,spring,postgres,mysql,sqlite,redis,mongodb&theme=light">
-    <img src="https://skillicons.dev/icons?i=flask,laravel,spring,postgres,mysql,sqlite,redis,mongodb" alt="Backend"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  </picture>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask,laravel,spring,django" alt="Backend 1"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" alt="Backend 2"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
 <picture>
@@ -107,16 +94,18 @@ print(me.say_hi())
 
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=andrewprasetya-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=andrewprasetya-k&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewprasetya-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewprasetya-k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewprasetya-k&layout=compact&theme=default&hide_border=true&langs_count=8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewprasetya-k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</picture>
+<a href="#">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=andrewprasetya-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=andrewprasetya-k&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewprasetya-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewprasetya-k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewprasetya-k&layout=compact&theme=default&hide_border=true&langs_count=8">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewprasetya-k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  </picture>
+</a>
 
 <br><br>
 
