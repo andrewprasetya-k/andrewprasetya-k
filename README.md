@@ -87,15 +87,18 @@ print(me.say_hi())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ### 🐍 Contribution Snake -->
+### Contribution
 
 <div align="center">
-  
-<picture>
+
+
+![GitHub contribution snake](https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake.svg)
+
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake.svg">
-</picture>
+</picture> -->
 
 </div>
 
