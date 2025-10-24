@@ -81,7 +81,7 @@ print(me.say_hi())
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewprasetya-k&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7ee787&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<source srcset="https://github-readme-streak-stats.herokuapp.com/?user=andrewprasetya-k&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7ee787&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
