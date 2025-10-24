@@ -43,7 +43,7 @@ class Developer:
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "PHP", "Java", "C", "C++", "Kotlin"],
             "frontend": ["React", "Vue.js", "TailwindCSS"],
-            "backend": ["Laravel", "Spring", "Flask", "Django", "Express"],
+            "backend": ["Laravel", "Spring", "Flask", "Express"],
             "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Oracle"],
         }
 
@@ -78,7 +78,7 @@ print(me.say_hi())
 ### Backend
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=flask,laravel,spring,django" alt="Backend 1"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask,laravel,spring" alt="Backend 1"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" alt="Backend 2"/></a>
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
