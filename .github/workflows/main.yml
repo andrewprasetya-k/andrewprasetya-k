@@ -2,8 +2,8 @@ name: GitHub Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Update setiap hari pada pukul 00:00 UTC
-  workflow_dispatch:  # Dapat dijalankan secara manual
+    - cron: "0 0 * * *" # Update setiap hari pada pukul 00:00 UTC
+  workflow_dispatch: # Dapat dijalankan secara manual
 
 jobs:
   update-snake:
@@ -15,8 +15,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user: andrewprasetya-k
-          output_file: github-snake.svg
+          github_user_name: andrewprasetya-k
 
       - name: Commit & Push SVG
         run: |
