@@ -60,7 +60,7 @@ me = Developer()
 print(me.say_hi())
 ```
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 ### Languages
 
