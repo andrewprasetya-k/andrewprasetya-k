@@ -42,8 +42,8 @@ class Developer:
 
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "PHP", "Java", "C", "C++", "Kotlin"],
-            "frontend": ["React", "Vue.js", "TailwindCSS"],
-            "backend": ["Laravel", "Spring", "Flask", "Express"],
+            "frontend": ["React", "Next.js", "TailwindCSS"],
+            "backend": ["Laravel", "Spring Boot", "Flask", "Nest.js"],
             "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Oracle"],
         }
 
@@ -51,7 +51,7 @@ class Developer:
         return """
         👋 Hello there!
         I write code, debug with coffee, and love turning problems into elegant solutions.
-        Open to collabs! ☕💻
+        Open to collabs!
         """
 
 
