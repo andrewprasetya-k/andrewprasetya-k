@@ -157,8 +157,8 @@ print(me.say_hi())
       <img src="https://img.shields.io/badge/Flask-58a6ff?style=flat&logo=flask&logoColor=white" alt="Flask"/>
       <img src="https://img.shields.io/badge/Redis-58a6ff?style=flat&logo=redis&logoColor=white" alt="Redis"/>
       <br><br>
-      <a href="https://github.com/andrewprasetya-k/project-3">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+      <a href="https://github.com/andrewprasetya-k/project-2">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
       </a>
     </td>
     <td width="50%">
