@@ -39,7 +39,7 @@ class Developer:
         self.education = "Computer Science Student"
 
         self.tech_stack = {
-            "languages": ["Python", "JavaScript", "PHP", "Java", "C", "C++", "Kotlin"],
+            "languages": ["Python", "JavaScript", "PHP", "Java", "C", "C++"],
             "frontend": ["React", "TailwindCSS"],
             "backend": ["Laravel", "Spring", "Flask", "Express"],
             "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Oracle"],
