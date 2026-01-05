@@ -90,7 +90,98 @@ print(me.say_hi())
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </picture>
 
-## 📊 GitHub Analytics
+## � Featured Projects
+
+<div align="center">
+
+### ⭐ Project Name 1
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>Description:</b> Deskripsi project Anda di sini. Apa yang project lakukan? Teknologi apa yang digunakan?
+      <br><br>
+      <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/React-00D9FF?style=flat&logo=react&logoColor=white" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-00D9FF?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-00D9FF?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <br><br>
+      <a href="https://github.com/andrewprasetya-k/project-1">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-1/main/screenshot.png" alt="Project 1 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #00D9FF"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⭐ Project Name 2
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-2/main/screenshot.png" alt="Project 2 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #00D9FF"/>
+    </td>
+    <td width="50%">
+      <b>Description:</b> Deskripsi project Anda di sini. Highlight fitur-fitur utamanya.
+      <br><br>
+      <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/Vue.js-00D9FF?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
+      <img src="https://img.shields.io/badge/Laravel-00D9FF?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-00D9FF?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <br><br>
+      <a href="https://github.com/andrewprasetya-k/project-2">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⭐ Project Name 3
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>Description:</b> Deskripsi singkat project Anda. Apa masalah yang diselesaikan? Apa unique value-nya?
+      <br><br>
+      <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/Python-00D9FF?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Flask-00D9FF?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/Redis-00D9FF?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+      <br><br>
+      <a href="https://github.com/andrewprasetya-k/project-3">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-3/main/screenshot.png" alt="Project 3 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #00D9FF"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔍 More Projects
+
+Explore lebih banyak project di [GitHub Profile](https://github.com/andrewprasetya-k?tab=repositories) saya!
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</picture>
+
+## �📊 GitHub Analytics
 
 <div align="center">
   
