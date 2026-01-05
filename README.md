@@ -55,8 +55,8 @@ class Developer:
     def say_hi(self):
       return """
       👋 Hello there!
-      I'm a final year Computer Science student at Universitas Kristen Satya Wacana,
-      currently interning at PT Sumber Alfaria Trijaya, Tbk. (Alfamart).
+      I'm a final year Computer Science student at Universitas Kristen Satya Wacana, currently interning
+      at PT Sumber Alfaria Trijaya, Tbk. (Alfamart).
       My current focus is developing and optimizing backend endpoints,
       as well as building frontend and UI using Node.js tailored to user needs and business goals.
       Passionate about optimizing data transfer and delivering user-centric solutions.
