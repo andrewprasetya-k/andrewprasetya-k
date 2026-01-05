@@ -103,16 +103,16 @@ print(me.say_hi())
       <br><br>
       <b>Tech Stack:</b>
       <br>
-      <img src="https://img.shields.io/badge/React-8B5CF6?style=flat&logo=react&logoColor=white" alt="React"/>
-      <img src="https://img.shields.io/badge/Node.js-8B5CF6?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/MongoDB-8B5CF6?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/React-58a6ff?style=flat&logo=react&logoColor=white" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-58a6ff?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-58a6ff?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
       <br><br>
       <a href="https://github.com/andrewprasetya-k/project-1">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
       </a>
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-1/main/screenshot.png" alt="Project 1 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #8B5CF6"/>
+      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-1/main/screenshot.png" alt="Project 1 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
     </td>
   </tr>
 </table>
@@ -124,16 +124,16 @@ print(me.say_hi())
 <table>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-2/main/screenshot.png" alt="Project 2 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #8B5CF6"/>
+      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-2/main/screenshot.png" alt="Project 2 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
     </td>
     <td width="50%">
       <b>Description:</b> Deskripsi project Anda di sini. Highlight fitur-fitur utamanya.
       <br><br>
       <b>Tech Stack:</b>
       <br>
-      <img src="https://img.shields.io/badge/Vue.js-8B5CF6?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
-      <img src="https://img.shields.io/badge/Laravel-8B5CF6?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Vue.js-58a6ff?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
+      <img src="https://img.shields.io/badge/Laravel-58a6ff?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-58a6ff?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <br><br>
       <a href="https://github.com/andrewprasetya-k/project-2">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
@@ -153,16 +153,16 @@ print(me.say_hi())
       <br><br>
       <b>Tech Stack:</b>
       <br>
-      <img src="https://img.shields.io/badge/Python-8B5CF6?style=flat&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Flask-8B5CF6?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/Redis-8B5CF6?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/Python-58a6ff?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Flask-58a6ff?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/Redis-58a6ff?style=flat&logo=redis&logoColor=white" alt="Redis"/>
       <br><br>
       <a href="https://github.com/andrewprasetya-k/project-3">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
       </a>
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-3/main/screenshot.png" alt="Project 3 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #8B5CF6"/>
+      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-3/main/screenshot.png" alt="Project 3 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
     </td>
   </tr>
 </table>
