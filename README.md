@@ -40,8 +40,8 @@ class Developer:
 
       self.current_focus = {
         "performance": "Optimizing data transfer & API efficiency",
-        "backend": "Building scalable & well-structured APIs",
-        "frontend": "Crafting user-centric interfaces",
+        "backend": "Developing and optimizing backend endpoints",
+        "frontend": "Building frontend and UI using Node.js",
         "internship": "Intern at PT Sumber Alfaria Trijaya, Tbk. (Alfamart)"
       }
 
@@ -55,10 +55,10 @@ class Developer:
     def say_hi(self):
       return """
       👋 Hello there!
-      I'm a final year Computer Science student at Universitas Kristen Satya Wacana, currently interning at
-      PT Sumber Alfaria Trijaya, Tbk. (Alfamart).
-      My main focus is developing full stack applications, building structured and efficient backend endpoints
-      and creating frontend/UI using Node.js tailored to user needs and business goals.
+      I'm a final year Computer Science student at Universitas Kristen Satya Wacana,
+      currently interning at PT Sumber Alfaria Trijaya, Tbk. (Alfamart).
+      My current focus is developing and optimizing backend endpoints,
+      as well as building frontend and UI using Node.js tailored to user needs and business goals.
       Passionate about optimizing data transfer and delivering user-centric solutions.
       """
 
