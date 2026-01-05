@@ -38,18 +38,24 @@ class Developer:
         self.location = "Tangerang, Indonesia"
         self.education = "Computer Science Student"
 
+        self.current_focus = {
+            "performance": "Optimizing data transfer & API efficiency",
+            "backend": "Building scalable & well-structured APIs",
+            "frontend": "Crafting user-centric interfaces",
+        }
+
         self.tech_stack = {
-            "languages": ["Python", "JavaScript", "PHP", "Java", "C", "C++"],
-            "frontend": ["React", "TailwindCSS"],
-            "backend": ["Laravel", "Spring", "Flask", "Express"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Oracle"],
+            "languages": ["Python", "JavaScript", "TypeScript", "PHP", "Java", "C", "C++"],
+            "frontend": ["React", "TailwindCSS", "Bootstrap", "Next.js"],
+            "backend": ["Flask", "Laravel", "Spring", "Nest.js"],
+            "databases": ["PostgreSQL", "MySQL", "SQLite", "Redis", "MongoDB", "Oracle"],
         }
 
     def say_hi(self):
         return """
         👋 Hello there!
-        I write code, debug with coffee, and love turning problems into elegant solutions.
-        Open to collabs! ☕💻
+        I'm passionate about building robust backend systems with efficient data flow
+        and creating intuitive UIs that resonate with users.
         """
 
 
@@ -78,8 +84,13 @@ print(me.say_hi())
 ### Backend
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=flask,laravel,spring,nestjs" alt="Backend 1"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" alt="Backend 2"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask,laravel,spring,nestjs" alt="Backend"/></a>
+</p>
+
+### Database
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" alt="Databases"/></a>
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
