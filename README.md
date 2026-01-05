@@ -90,7 +90,7 @@ print(me.say_hi())
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </picture>
 
-## � Featured Projects
+<!-- ## Featured Projects
 
 <div align="center">
 
@@ -173,7 +173,7 @@ print(me.say_hi())
 
 Explore lebih banyak project di [GitHub Profile](https://github.com/andrewprasetya-k?tab=repositories) saya!
 
-</div>
+</div> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
