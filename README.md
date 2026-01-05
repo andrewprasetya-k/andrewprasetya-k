@@ -30,8 +30,6 @@
 
 </div>
 
-## 🚀 About Me
-
 ```python
 class Developer:
     def __init__(self):
@@ -59,8 +57,6 @@ class Developer:
 me = Developer()
 print(me.say_hi())
 ```
-
-## 🛠️ Tech Arsenal
 
 ### Languages
 
