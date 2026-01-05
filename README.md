@@ -36,21 +36,6 @@ class Developer:
       self.name = "Andrew Prasetya"
       self.role = "Full-Stack Developer"
       self.location = "Tangerang, Indonesia"
-      # self.education = "Final year Computer Science student at Universitas Kristen Satya Wacana"
-
-      # self.current_focus = {
-      #   "performance": "Optimizing data transfer & API efficiency",
-      #   "backend": "Developing and optimizing backend endpoints",
-      #   "frontend": "Building frontend and UI using Node.js",
-      #   "internship": "Intern at PT Sumber Alfaria Trijaya, Tbk. (Alfamart)"
-      # }
-
-      # self.tech_stack = {
-      #   "languages": ["Python", "JavaScript", "TypeScript", "PHP", "Java", "C", "C++"],
-      #   "frontend": ["React", "TailwindCSS", "Bootstrap", "Next.js", "Node.js"],
-      #   "backend": ["Flask", "Laravel", "Spring", "Nest.js", "Node.js"],
-      #   "databases": ["PostgreSQL", "MySQL", "SQLite", "Redis", "MongoDB", "Oracle"],
-      # }
 
     def say_hi(self):
       return """
