@@ -33,24 +33,24 @@
 ```python
 class Developer:
     def __init__(self):
-    self.name = "Andrew Prasetya"
-    self.role = "Full-Stack Developer"
-    self.location = "Tangerang, Indonesia"
-    self.education = "Final year Computer Science student at Universitas Kristen Satya Wacana"
+      self.name = "Andrew Prasetya"
+      self.role = "Full-Stack Developer"
+      self.location = "Tangerang, Indonesia"
+      self.education = "Final year Computer Science student at Universitas Kristen Satya Wacana"
 
-    self.current_focus = {
-      "performance": "Optimizing data transfer & API efficiency",
-      "backend": "Building scalable & well-structured APIs",
-      "frontend": "Crafting user-centric interfaces",
-      "internship": "Intern at PT Sumber Alfaria Trijaya, Tbk. (Alfamart)"
-    }
+      self.current_focus = {
+        "performance": "Optimizing data transfer & API efficiency",
+        "backend": "Building scalable & well-structured APIs",
+        "frontend": "Crafting user-centric interfaces",
+        "internship": "Intern at PT Sumber Alfaria Trijaya, Tbk. (Alfamart)"
+      }
 
-    self.tech_stack = {
-      "languages": ["Python", "JavaScript", "TypeScript", "PHP", "Java", "C", "C++"],
-      "frontend": ["React", "TailwindCSS", "Bootstrap", "Next.js", "Node.js"],
-      "backend": ["Flask", "Laravel", "Spring", "Nest.js", "Node.js"],
-      "databases": ["PostgreSQL", "MySQL", "SQLite", "Redis", "MongoDB", "Oracle"],
-    }
+      self.tech_stack = {
+        "languages": ["Python", "JavaScript", "TypeScript", "PHP", "Java", "C", "C++"],
+        "frontend": ["React", "TailwindCSS", "Bootstrap", "Next.js", "Node.js"],
+        "backend": ["Flask", "Laravel", "Spring", "Nest.js", "Node.js"],
+        "databases": ["PostgreSQL", "MySQL", "SQLite", "Redis", "MongoDB", "Oracle"],
+      }
 
     def say_hi(self):
       return """
