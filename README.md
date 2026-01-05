@@ -66,7 +66,7 @@ print(me.say_hi())
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=python,js,php,java" alt="Languages 1"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,kotlin,ts" alt="Languages 2"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,ts" alt="Languages 2"/></a>
 </p>
 
 ### Frontend
