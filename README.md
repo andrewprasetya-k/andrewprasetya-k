@@ -173,16 +173,6 @@ Explore lebih banyak project di [GitHub Profile](https://github.com/andrewpraset
 
 </div> -->
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=andrewprasetya-k&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7ee787&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=andrewprasetya-k&theme=default&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewprasetya-k&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7ee787&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</picture>
-
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
