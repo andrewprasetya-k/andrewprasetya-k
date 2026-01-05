@@ -42,7 +42,7 @@ class Developer:
 
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "PHP", "Java", "C", "C++", "Kotlin"],
-            "frontend": ["React", "Vue.js", "TailwindCSS"],
+            "frontend": ["React", "TailwindCSS"],
             "backend": ["Laravel", "Spring", "Flask", "Express"],
             "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL", "Oracle"],
         }
@@ -72,7 +72,7 @@ print(me.say_hi())
 ### Frontend
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,nextjs" alt="Frontend"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nextjs" alt="Frontend"/></a>
 </p>
 
 ### Backend
