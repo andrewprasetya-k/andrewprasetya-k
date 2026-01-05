@@ -60,6 +60,15 @@ class Developer:
       and creating frontend/UI using Node.js tailored to user needs and business goals.
       Passionate about optimizing data transfer and delivering user-centric solutions.
       """
+        return (
+          "👋 Hello there!\n"
+          "I'm a final year Computer Science student at Universitas Kristen Satya Wacana,\n"
+          "currently interning at PT Sumber Alfaria Trijaya, Tbk. (Alfamart).\n"
+          "My main focus is developing full stack applications,\n"
+          "building structured and efficient backend endpoints with Flask,\n"
+          "and creating frontend/UI using Node.js tailored to user needs and business goals.\n"
+          "Passionate about optimizing data transfer and delivering user-centric solutions."
+        )
 
 
 # Initialize
