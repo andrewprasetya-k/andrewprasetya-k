@@ -60,7 +60,7 @@ print(me.say_hi())
 ### Languages
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,js,php,java" alt="Languages 1"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=go,python,js,php,java" alt="Languages 1"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,ts" alt="Languages 2"/></a>
 </p>
 
