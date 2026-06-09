@@ -213,10 +213,6 @@ print(me.say_hi())
 
 </div>
 
-## More Projects
-
-Explore lebih banyak project di [GitHub Profile](https://github.com/andrewprasetya-k?tab=repositories) saya!
-
 </div>
 
 <div align="center">
