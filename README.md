@@ -120,7 +120,11 @@ print(me.say_hi())
 <table>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/andrewprasetya-k/pmi-salatiga/main/screenshot.png" alt="PMI Salatiga Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
+      <img src="/src/pmi_landing.png" alt="PMI Landing Page" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff; margin-bottom: 8px"/>
+      <br>
+      <img src="/src/pmi_admin.png" alt="PMI Admin Dashboard" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff; margin-bottom: 8px"/>
+      <br>
+      <img src="/src/pmi_rs.png" alt="PMI RS View" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
     </td>
     <td width="50%">
       <b>Description:</b> A full-stack information system for PMI (Indonesian Red Cross) Kota Salatiga to manage blood donation scheduling, donor records, and public information services. Published as a final academic project.
@@ -139,13 +143,7 @@ print(me.say_hi())
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="ReactJS"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <br><br>
-      <a href="/src/pmi_landing.png">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
-      </a>
-      <a href="/src/pmi_admin.png">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
-      </a>
-      <a href="/src/pmi_rs.png">
+      <a href="https://github.com/andrewprasetya-k/pmi-salatiga">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
       </a>
     </td>
