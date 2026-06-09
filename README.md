@@ -105,7 +105,7 @@ print(me.say_hi())
       </a>
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/eduverse-preview.png"
+      <img src="/src/pmi_landing.png"
            alt="EduVerse Screenshot"
            width="100%"
            style="border-radius: 8px; border: 2px solid #58a6ff"/>
