@@ -142,6 +142,9 @@ print(me.say_hi())
       <a href="/src/pmi_landing.png">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
       </a>
+      <a href="/src/pmi_admin.png">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+      </a>
       <a href="/src/pmi_rs.png">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
       </a>
