@@ -90,7 +90,7 @@ print(me.say_hi())
         <li>Implemented JWT Authentication and Role-Based Access Control (RBAC)</li>
         <li>Designed multi-tenant architecture with isolated academic data per school</li>
         <li>Applied layered architecture (Handler → Service → Repository)</li>
-        <li>🏆 Won 1st Place in university-wide UI/UX competition</li>
+        <li>Won 1st Place in university-wide UI/UX competition</li>
       </ul>
       <br>
       <b>Tech Stack:</b>
@@ -130,7 +130,7 @@ print(me.say_hi())
         <li>Built RESTful APIs and backend workflows using Laravel and PostgreSQL</li>
         <li>Developed public-facing portal and admin dashboard with ReactJS</li>
         <li>Implemented JWT Authentication and Role-Based Access Control (RBAC)</li>
-        <li>📄 Published academic research project</li>
+        <li>Published academic research project</li>
       </ul>
       <br>
       <b>Tech Stack:</b>
