@@ -67,9 +67,10 @@ print(me.say_hi())
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
-<picture>
+<picture> 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </picture>
+
 ## Featured Projects
 
 <div align="center">
@@ -212,11 +213,11 @@ print(me.say_hi())
 
 </div>
 
-### More Projects
+## More Projects
 
 Explore lebih banyak project di [GitHub Profile](https://github.com/andrewprasetya-k?tab=repositories) saya!
 
-</div> -->
+</div>
 
 <div align="center">
 
