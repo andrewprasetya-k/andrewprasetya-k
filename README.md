@@ -70,7 +70,6 @@ print(me.say_hi())
 <picture>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </picture>
-
 ## Featured Projects
 
 <div align="center">
@@ -86,10 +85,11 @@ print(me.say_hi())
       <br><br>
       <b>Highlights:</b>
       <ul>
-        <li>Built RESTful APIs using Go (Gin) and PostgreSQL</li>
+        <li>Built RESTful APIs using Go (Gin) and PostgreSQL with GORM</li>
         <li>Implemented JWT Authentication and Role-Based Access Control (RBAC)</li>
-        <li>Designed multi-school architecture with isolated academic data</li>
+        <li>Designed multi-tenant architecture with isolated academic data per school</li>
         <li>Applied layered architecture (Handler → Service → Repository)</li>
+        <li>🏆 Won 1st Place in university-wide UI/UX competition</li>
       </ul>
       <br>
       <b>Tech Stack:</b>
@@ -112,83 +112,105 @@ print(me.say_hi())
   </tr>
 </table>
 
-### PMI Kota Salatiga
+---
+
+### PMI Kota Salatiga — Blood Donation Information System
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-2/main/screenshot.png" alt="Project 2 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
+      <img src="https://raw.githubusercontent.com/andrewprasetya-k/pmi-salatiga/main/screenshot.png" alt="PMI Salatiga Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
     </td>
     <td width="50%">
-      <b>Description:</b> Blood donation Information system for PMI Kota Salatiga 
+      <b>Description:</b> A full-stack information system for PMI (Indonesian Red Cross) Kota Salatiga to manage blood donation scheduling, donor records, and public information services. Published as a final academic project.
       <br><br>
       <b>Highlights:</b>
       <ul>
-        <li>Built RESTful APIs using Laravel and PostgreSQL</li>
+        <li>Built RESTful APIs and backend workflows using Laravel and PostgreSQL</li>
+        <li>Developed public-facing portal and admin dashboard with ReactJS</li>
         <li>Implemented JWT Authentication and Role-Based Access Control (RBAC)</li>
-        <li>Built frontend with React</li>
+        <li>📄 Published academic research project</li>
       </ul>
+      <br>
       <b>Tech Stack:</b>
       <br>
-      <img src="https://img.shields.io/badge/Vue.js-58a6ff?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
-      <img src="https://img.shields.io/badge/Laravel-58a6ff?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-58a6ff?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="ReactJS"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <br><br>
-      <a href="https://github.com/andrewprasetya-k/project-1">
+      <a href="https://github.com/andrewprasetya-k/pmi-salatiga">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
       </a>
     </td>
   </tr>
 </table>
 
+---
 
 ### Chat App — Real-Time Messaging Application
 
 <table>
   <tr>
     <td width="50%">
-      <b>Description:</b> Deskripsi singkat project Anda. Apa masalah yang diselesaikan? Apa unique value-nya?
+      <b>Description:</b> A real-time chat application supporting instant message delivery through WebSocket-based communication, with persistent message history stored in PostgreSQL.
       <br><br>
+      <b>Highlights:</b>
+      <ul>
+        <li>Built real-time messaging with NestJS WebSocket Gateways</li>
+        <li>Persistent chat history with PostgreSQL</li>
+        <li>Server-side rendered frontend using Next.js</li>
+      </ul>
+      <br>
       <b>Tech Stack:</b>
       <br>
-      <img src="https://img.shields.io/badge/Python-58a6ff?style=flat&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Flask-58a6ff?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/Redis-58a6ff?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" alt="WebSocket"/>
       <br><br>
-      <a href="https://github.com/andrewprasetya-k/project-1">
+      <a href="https://github.com/andrewprasetya-k/chat-app">
         <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
       </a>
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-3/main/screenshot.png" alt="Project 3 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
-    </td>
-  </tr>
-</table>
-
-### Lynks - URL Shortener
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>Description:</b> Deskripsi singkat project Anda. Apa masalah yang diselesaikan? Apa unique value-nya?
-      <br><br>
-      <b>Tech Stack:</b>
-      <br>
-      <img src="https://img.shields.io/badge/Python-58a6ff?style=flat&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Flask-58a6ff?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/Redis-58a6ff?style=flat&logo=redis&logoColor=white" alt="Redis"/>
-      <br><br>
-      <a href="https://github.com/andrewprasetya-k/project-1">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
-      </a>
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-3/main/screenshot.png" alt="Project 3 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
+      <img src="https://raw.githubusercontent.com/andrewprasetya-k/chat-app/main/screenshot.png" alt="Chat App Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
     </td>
   </tr>
 </table>
 
 ---
+
+### Lynks — URL Shortener with Analytics
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/andrewprasetya-k/lynks/main/screenshot.png" alt="Lynks Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
+    </td>
+    <td width="50%">
+      <b>Description:</b> A URL shortening service with built-in click tracking and analytics. Uses MongoDB for fast key-value-based redirection and aggregates access events per shortened URL.
+      <br><br>
+      <b>Highlights:</b>
+      <ul>
+        <li>Fast URL redirection using MongoDB key-value storage</li>
+        <li>Click-tracking mechanism to record and aggregate access events</li>
+        <li>Full-stack implementation with NestJS backend and Next.js frontend</li>
+      </ul>
+      <br>
+      <b>Tech Stack:</b>
+      <br>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="NestJS"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <br><br>
+      <a href="https://github.com/andrewprasetya-k/lynks">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ### More Projects
 
