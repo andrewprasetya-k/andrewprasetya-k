@@ -189,14 +189,6 @@ Explore lebih banyak project di [GitHub Profile](https://github.com/andrewpraset
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </picture>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=random&theme=dark&background=0D1117&color=F8F8FF">
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=random&theme=light">
-  <img src="https://quotes-github-readme.vercel.app/api?type=random&theme=dark&background=0D1117&color=F8F8FF" alt="Random Dev Quote"/>
-</picture>
-
 </div>
 
 <div align="center">
