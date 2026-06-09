@@ -56,7 +56,7 @@ print(me.say_hi())
 ### Backend
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=flask,Gin,laravel,spring,nestjs" alt="Backend"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flask,go,laravel,spring,nestjs" alt="Backend"/></a>
 </p>
 
 ### Database
