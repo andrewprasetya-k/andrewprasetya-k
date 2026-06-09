@@ -1,202 +1,113 @@
 <div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="src/banner.png">
-  <source media="(prefers-color-scheme: light)" srcset="src/banner.png">
-  <img src="src/banner.png" alt="Personal banner showing Andrew Prasetya, Full Stack Developer">
-</picture>
 
-<!--[Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+my+profile!;Building+purposeful+applications)
--->
-<!--
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" alt="Public Repos"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117">
-    <img src="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
-  </picture>
+<!-- Optional: keep your banner if it looks professional, remove if generic -->
+<img src="src/banner.png" alt="Andrew Prasetya – Backend & Full-Stack Developer" />
+
+<h2>Andrew Prasetya</h2>
+<p><strong>Backend & Full-Stack Developer</strong> · Tangerang, Indonesia</p>
+
+<p>
+  Final-year CS student (GPA 3.86/4.00) · Full-Stack Intern at Lawson Indonesia ·
+  Former TA for Algorithms, DSA, Databases & Web Design
 </p>
--->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</picture>
+<!-- Badges: keep these tight and informative -->
+<p>
+  <img src="https://img.shields.io/badge/GPA-3.86%2F4.00-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Intern-Lawson%20Indonesia-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Oracle-SQL%20Certified-red?style=flat-square&logo=oracle" />
+  <img src="https://img.shields.io/badge/Role-Backend%20%26%20Full--Stack-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20To-Full--Time%20%26%20Internship-9cf?style=flat-square" />
+</p>
 
 </div>
-
-```python
-class Developer:
-    def __init__(self):
-      self.name = "Andrew Prasetya"
-      self.role = "Full-Stack Developer"
-      self.location = "Tangerang, Indonesia"
-
-    def say_hi(self):
-      return """
-      👋 Hello there!
-      I'm a final year Computer Science student at Universitas Kristen Satya Wacana, currently interning
-      at PT Lancar Wiguna Sejahtera (Lawson).
-      My current focus is developing and optimizing backend endpoints,
-      as well as building frontend and UI using Node.js tailored to user needs and business goals.
-      Passionate about optimizing data transfer and delivering user-centric solutions.
-      """
-
-# Initialize
-me = Developer()
-print(me.say_hi())
-```
-
-<picture>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</picture>
-
-### Languages
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=go,python,js,php,java" alt="Languages 1"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,ts" alt="Languages 2"/></a>
-</p>
-
-### Frontend
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nextjs" alt="Frontend"/></a>
-</p>
-
-### Backend
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=flask,laravel,spring,nestjs" alt="Backend"/></a>
-</p>
-
-### Database
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" alt="Databases"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-</p>
-
-<picture>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</picture>
-
-<!-- ## Featured Projects
-
-<div align="center">
-
-### ⭐ Project Name 1
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>Description:</b> Deskripsi project Anda di sini. Apa yang project lakukan? Teknologi apa yang digunakan?
-      <br><br>
-      <b>Tech Stack:</b>
-      <br>
-      <img src="https://img.shields.io/badge/React-58a6ff?style=flat&logo=react&logoColor=white" alt="React"/>
-      <img src="https://img.shields.io/badge/Node.js-58a6ff?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/MongoDB-58a6ff?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <br><br>
-      <a href="https://github.com/andrewprasetya-k/project-1">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
-      </a>
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-1/main/screenshot.png" alt="Project 1 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
-### ⭐ Project Name 2
+## About
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-2/main/screenshot.png" alt="Project 2 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
-    </td>
-    <td width="50%">
-      <b>Description:</b> Deskripsi project Anda di sini. Highlight fitur-fitur utamanya.
-      <br><br>
-      <b>Tech Stack:</b>
-      <br>
-      <img src="https://img.shields.io/badge/Vue.js-58a6ff?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
-      <img src="https://img.shields.io/badge/Laravel-58a6ff?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-58a6ff?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <br><br>
-      <a href="https://github.com/andrewprasetya-k/project-1">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
-      </a>
-    </td>
-  </tr>
-</table>
+I build backend systems and full-stack web applications with a focus on clean architecture,
+data efficiency, and maintainability. Currently developing and optimizing REST API endpoints
+and frontend interfaces at Lawson Indonesia using Go and Node.js.
+
+Previously a Teaching Assistant for four courses (Algorithms, Data Structures, Database Systems,
+Web Design) — recognized as **Student-Favorite TA** by the faculty.
+Led the Professional Skills Department at the Faculty Student Executive Board (BEM Fakultas).
+
+> Currently seeking full-time backend or software engineering roles starting mid-2025.
 
 ---
 
-### ⭐ Project Name 3
+## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>Description:</b> Deskripsi singkat project Anda. Apa masalah yang diselesaikan? Apa unique value-nya?
-      <br><br>
-      <b>Tech Stack:</b>
-      <br>
-      <img src="https://img.shields.io/badge/Python-58a6ff?style=flat&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Flask-58a6ff?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-      <img src="https://img.shields.io/badge/Redis-58a6ff?style=flat&logo=redis&logoColor=white" alt="Redis"/>
-      <br><br>
-      <a href="https://github.com/andrewprasetya-k/project-1">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
-      </a>
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/andrewprasetya-k/project-3/main/screenshot.png" alt="Project 3 Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
-    </td>
-  </tr>
-</table>
+### EduVerse — Multi-Tenant Learning Management System
+> **Go (Gin) · PostgreSQL · Vue.js · JWT · RBAC**
+
+A full-featured LMS supporting multiple tenants with role-based access control,
+JWT authentication, and academic management workflows (enrollment, grading, scheduling).
+Designed with a layered architecture separating concerns across domain, service, and handler layers.
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/andrewprasetya-k/eduverse)
 
 ---
 
-### 🔍 More Projects
+### Chat App — Real-Time Messaging Platform
+> **NestJS · Next.js · PostgreSQL · WebSocket**
 
-Explore lebih banyak project di [GitHub Profile](https://github.com/andrewprasetya-k?tab=repositories) saya!
+Real-time chat application built on WebSocket with persistent message history.
+Focused on low-latency delivery and scalable event handling using NestJS Gateways.
 
-</div> -->
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/andrewprasetya-k/chat-app)
 
-<div align="center">
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrewprasetya-k/andrewprasetya-k/output/github-snake.svg">
-</picture>
+### PMI Kota Salatiga — Blood Donation Information System
+> **Laravel · ReactJS · PostgreSQL · Published Academic Project**
 
-</div>
+Information system for the Salatiga Red Cross (PMI) to manage blood donation scheduling,
+donor records, and availability tracking. Research findings published as part of final project.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</picture>
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/andrewprasetya-k/pmi-salatiga)
 
-</div>
+---
 
-<div align="center">
+## Experience
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="Footer Wave">
-</picture>
+**Full-Stack Developer Intern** · PT Lancar Wiguna Sejahtera (Lawson Indonesia)
+*[Start Date] – Present · Tangerang, Indonesia*
+- Developing and optimizing backend REST API endpoints
+- Building frontend UI components with Node.js to address business requirements
 
-</div>
+**Teaching Assistant** · Universitas Kristen Satya Wacana
+*[Duration]*
+- TA for Algorithms, Data Structures, Database Systems, and Web Design
+- Awarded **Student-Favorite Teaching Assistant** by faculty vote
+
+---
+
+## Tech Stack
+
+**Languages**
+`Go` `Python` `TypeScript` `JavaScript` `PHP` `SQL`
+
+**Backend**
+`Gin` `NestJS` `Flask` `Laravel`
+
+**Frontend**
+`React` `Vue.js` `Next.js`
+
+**Databases**
+`PostgreSQL` `Oracle` `MongoDB` `Redis` `MySQL`
+
+---
+
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
