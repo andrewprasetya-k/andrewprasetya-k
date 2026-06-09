@@ -95,7 +95,6 @@ print(me.say_hi())
       <br>
       <b>Tech Stack:</b>
       <br>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
       <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white" alt="Gin"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
@@ -105,10 +104,11 @@ print(me.say_hi())
       </a>
     </td>
     <td width="50%">
-      <img src="/src/pmi_landing.png"
-           alt="EduVerse Screenshot"
-           width="100%"
-           style="border-radius: 8px; border: 2px solid #58a6ff"/>
+      <img src="/src/ev_student.png" alt="EduVerse Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
+      <br>
+      <img src="/src/ev_teacher.png" alt="EduVerse Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
+      <br>
+      <img src="/src/ev_admin.png" alt="EduVerse Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
     </td>
   </tr>
 </table>
