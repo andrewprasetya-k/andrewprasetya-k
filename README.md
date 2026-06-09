@@ -6,9 +6,9 @@
   <img src="src/banner.png" alt="Personal banner showing Andrew Prasetya, Full Stack Developer">
 </picture>
 
-<!--[Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+my+profile!;Building+purposeful+applications)
--->
-<!--
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+my+profile!;Building+purposeful+applications)
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/andrewprasetya-k&style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github">
@@ -21,7 +21,7 @@
     <img src="https://komarev.com/ghpvc/?username=andrewprasetya-k&label=Profile%20Views&color=5390d9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
   </picture>
 </p>
--->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -207,7 +207,7 @@ print(me.say_hi())
 
 ---
 
-### 🔍 More Projects
+### More Projects
 
 Explore lebih banyak project di [GitHub Profile](https://github.com/andrewprasetya-k?tab=repositories) saya!
 
