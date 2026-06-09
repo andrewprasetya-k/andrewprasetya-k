@@ -89,6 +89,7 @@ print(me.say_hi())
         <li>Built RESTful APIs using Go (Gin) and PostgreSQL with GORM</li>
         <li>Implemented JWT Authentication and Role-Based Access Control (RBAC)</li>
         <li>Designed multi-tenant architecture with isolated academic data per school</li>
+        <li>Developed student portal, teacher portal, school admin dashboard, and superadmin web app with Vue.js</li>
         <li>Applied layered architecture (Handler → Service → Repository)</li>
         <li>Won 1st Place in university-wide UI/UX competition</li>
       </ul>
@@ -110,6 +111,7 @@ print(me.say_hi())
       <br>
       <img src="/src/ev_admin.png" alt="EduVerse Screenshot" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
     </td>
+
   </tr>
 </table>
 
@@ -127,12 +129,12 @@ print(me.say_hi())
       <img src="/src/pmi_rs.png" alt="PMI RS View" width="100%" style="border-radius: 8px; border: 2px solid #58a6ff"/>
     </td>
     <td width="50%">
-      <b>Description:</b> A full-stack information system for PMI (Indonesian Red Cross) Kota Salatiga to manage blood donation scheduling, donor records, and public information services. Published as a final academic project.
+      A full-stack information system for PMI (Indonesian Red Cross) Kota Salatiga to manage blood donation scheduling, donor records, and public information services. Published as a final academic project.
       <br><br>
       <b>Highlights:</b>
       <ul>
         <li>Built RESTful APIs and backend workflows using Laravel and PostgreSQL</li>
-        <li>Developed public-facing portal and admin dashboard with ReactJS</li>
+        <li>Developed public-facing portal, admin dashboard with ReactJS, and hospital admin dashboard with ReactJS</li>
         <li>Implemented JWT Authentication and Role-Based Access Control (RBAC)</li>
         <li>Published academic research project</li>
       </ul>
