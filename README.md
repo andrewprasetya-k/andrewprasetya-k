@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="src/banner.png">
   <source media="(prefers-color-scheme: light)" srcset="src/banner.png">
-  <img src="src/banner.png" alt="Personal banner showing Andrew Prasetya, Full Stack Developer">
+  <img src="src/banner.png" alt="Personal banner">
 </picture>
 
 <picture>
