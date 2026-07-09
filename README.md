@@ -75,14 +75,14 @@ print(me.say_hi())
 
 <div align="center">
 
-### EduVerse — Multi-School Learning Management System
+### Wiyata Academic Workspace — Multi-School Learning Management System
 
 <table>
   <tr>
     <td width="50%">
       <b>Description:</b>
       <br>
-      EduVerse is a multi-tenant Learning Management System (LMS) designed to support academic management across multiple schools. The platform provides role-based access control, class management, learning materials, assignments, assessments, and academic workflows within a scalable architecture.
+      Wiyata is a multi-tenant Learning Management System (LMS) designed to support academic management across multiple schools. The platform provides role-based access control, class management, learning materials, assignments, assessments, and academic workflows within a scalable architecture.
       <br><br>
       <b>Highlights:</b>
       <ul>
