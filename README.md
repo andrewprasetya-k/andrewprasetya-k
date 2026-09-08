@@ -26,7 +26,7 @@
           👋 Hello there!
 
           I'm a final-year Computer Science student at Universitas Kristen Satya Wacana,
-          currently working as a Backend Developer Intern at Blibli.com.
+          currently working as a Backend Developer at Blibli.com.
 
           My current focus is backend engineering with Java & Spring Boot,
           RESTful APIs, database systems, business logic, system design,
@@ -34,8 +34,6 @@
 
           Previously experienced in full-stack development with Python, Go,
           ReactJS, Vue.js, PostgreSQL, and Oracle Database.
-
-          Always learning, building, and improving.
           """;
         }
 
