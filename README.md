@@ -15,7 +15,7 @@
 </div>
 
 ```python
-public class Developer {
+  public class Developer {
 
     private final String name = "Andrew Prasetya";
     private final String role = "Backend Developer | Software Engineer";
@@ -43,7 +43,7 @@ public class Developer {
         Developer me = new Developer();
         System.out.println(me.sayHi());
     }
-}
+  }
 ```
 
 <picture>
