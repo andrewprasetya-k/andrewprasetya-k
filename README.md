@@ -15,25 +15,35 @@
 </div>
 
 ```python
-class Developer:
-    def __init__(self):
-      self.name = "Andrew Prasetya"
-      self.role = "Full-Stack Developer | Backend-Focused Software Engineer"
-      self.location = "Tangerang, Indonesia"
+public class Developer {
 
-    def say_hi(self):
-      return """
-      👋 Hello there!
-      I'm a final-year Computer Science student at Universitas Kristen Satya Wacana, currently interning
-      at PT Lancar Wiguna Sejahtera (Lawson), developing internal business applications using ReactJS, Vue.js, Python, and Oracle Database.
-      My current focus is developing and optimising backend endpoints, system design, API development, and scalable software architecture,
-      as well as building frontend and UI using Node.js tailored to user needs and business goals.
-      Passionate about optimising data transfer and delivering user-centric solutions.
-      """
+    private final String name = "Andrew Prasetya";
+    private final String role = "Backend Developer | Software Engineer";
+    private final String location = "Tangerang, Indonesia";
 
-# Initialize
-me = Developer()
-print(me.say_hi())
+    public String sayHi() {
+        return """
+                👋 Hello there!
+
+                I'm a final-year Computer Science student at Universitas Kristen Satya Wacana,
+                currently working as a Backend Developer Intern at Blibli.com.
+
+                My current focus is backend engineering with Java & Spring Boot,
+                RESTful APIs, database systems, business logic, system design,
+                and building scalable and maintainable software.
+
+                Previously experienced in full-stack development with Python, Go,
+                ReactJS, Vue.js, PostgreSQL, and Oracle Database.
+
+                Always learning, building, and improving.
+                """;
+    }
+
+    public static void main(String[] args) {
+        Developer me = new Developer();
+        System.out.println(me.sayHi());
+    }
+}
 ```
 
 <picture>
