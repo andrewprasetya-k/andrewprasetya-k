@@ -14,33 +14,33 @@
 
 </div>
 
-```python
-  public class Developer {
+```java
+public class Developer {
 
-    private final String name = "Andrew Prasetya";
-    private final String role = "Backend Developer | Software Engineer";
-    private final String location = "Tangerang, Indonesia";
+  private final String name = "Andrew Prasetya";
+  private final String role = "Backend Developer | Software Engineer";
+  private final String location = "Tangerang, Indonesia";
 
-    public String sayHi() {
-        return """
-          👋 Hello there!
+  public String sayHi() {
+      return """
+        👋 Hello there!
 
-          I'm a final-year Computer Science student at Universitas Kristen Satya Wacana,
-          currently working as a Backend Developer Intern at Blibli.com.
+        I'm a final-year Computer Science student at Universitas Kristen Satya Wacana,
+        currently working as a Backend Developer Intern at Blibli.com.
 
-          My current focus is backend engineering with Java Spring Boot, Kafka, Redis,
-          RESTful APIs, and database systems
+        My current focus is backend engineering with Java Spring Boot, Kafka, Redis,
+        RESTful APIs, and database systems
 
-          Previously experienced in full-stack development with Python, Go,
-          ReactJS, Vue.js, PostgreSQL, and Oracle Database.
-          """;
-        }
+        Previously experienced in full-stack development with Python, Go,
+        ReactJS, Vue.js, PostgreSQL, and Oracle Database.
+        """;
+      }
 
-    public static void main(String[] args) {
-        Developer me = new Developer();
-        System.out.println(me.sayHi());
-    }
+  public static void main(String[] args) {
+      Developer me = new Developer();
+      System.out.println(me.sayHi());
   }
+}
 ```
 
 <picture>
