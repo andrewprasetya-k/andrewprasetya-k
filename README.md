@@ -23,21 +23,21 @@
 
     public String sayHi() {
         return """
-                👋 Hello there!
+          👋 Hello there!
 
-                I'm a final-year Computer Science student at Universitas Kristen Satya Wacana,
-                currently working as a Backend Developer Intern at Blibli.com.
+          I'm a final-year Computer Science student at Universitas Kristen Satya Wacana,
+          currently working as a Backend Developer Intern at Blibli.com.
 
-                My current focus is backend engineering with Java & Spring Boot,
-                RESTful APIs, database systems, business logic, system design,
-                and building scalable and maintainable software.
+          My current focus is backend engineering with Java & Spring Boot,
+          RESTful APIs, database systems, business logic, system design,
+          and building scalable and maintainable software.
 
-                Previously experienced in full-stack development with Python, Go,
-                ReactJS, Vue.js, PostgreSQL, and Oracle Database.
+          Previously experienced in full-stack development with Python, Go,
+          ReactJS, Vue.js, PostgreSQL, and Oracle Database.
 
-                Always learning, building, and improving.
-                """;
-    }
+          Always learning, building, and improving.
+          """;
+        }
 
     public static void main(String[] args) {
         Developer me = new Developer();
