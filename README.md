@@ -17,28 +17,26 @@
 ```java
 public class Developer {
 
-  private final String name = "Andrew Prasetya";
-  private final String role = "Backend Developer | Software Engineer";
-  private final String location = "Tangerang, Indonesia";
+    private final String name = "Andrew Prasetya";
+    private final String role = "Backend Developer | Software Engineer";
 
-  public String sayHi() {
+    public String sayHi() {
       return """
         👋 Hello there!
-
-        I'm a final-year Computer Science student at Universitas Kristen Satya Wacana,
-        currently working as a Backend Developer Intern at Blibli.com.
-
-        My current focus is backend engineering with Java Spring Boot, Kafka, Redis,
-        RESTful APIs, and database systems
-
-        Previously experienced in full-stack development with Python, Go,
-        ReactJS, Vue.js, PostgreSQL, and Oracle Database.
+  
+        I'm a Computer Science graduate and Backend Developer
+        currently interning at Blibli.com.
+  
+        I build backend services using Java and Spring Boot,
+        with a focus on APIs, databases, business logic,
+        system design, and maintainable software architecture.
+  
+        I also have hands-on experience with Go, Python,
+        PostgreSQL, Oracle, ReactJS, and Vue.js.
+  
+        Currently exploring distributed systems, scalable architectures,
+        and everything that makes software reliable in production.
         """;
-      }
-
-  public static void main(String[] args) {
-      Developer me = new Developer();
-      System.out.println(me.sayHi());
   }
 }
 ```
