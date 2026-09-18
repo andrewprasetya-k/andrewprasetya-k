@@ -48,26 +48,26 @@ public class Developer {
 ### Languages
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,go,python,js,php" alt="Languages 1"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,ts" alt="Languages 2"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,go,python,js,php&theme=light" alt="Languages 1"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,ts&theme=light" alt="Languages 2"/></a>
 </p>
 
 ### Frontend
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=vuejs,react,tailwind,bootstrap,nextjs" alt="Frontend"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vuejs,react,tailwind,bootstrap,nextjs&theme=light" alt="Frontend"/></a>
 </p>
 
 ### Backend
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=spring,kafka,flask,go,laravel,nestjs" alt="Backend"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring,kafka,flask,go,laravel,nestjs&theme=light" alt="Backend"/></a>
 </p>
 
 ### Database
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite,mongodb" alt="Databases"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite,mongodb&theme=light" alt="Databases"/></a>
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
