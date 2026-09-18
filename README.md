@@ -61,7 +61,7 @@ public class Developer {
 ### Backend
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=spring,kafka,flask,go,laravel,spring,nestjs" alt="Backend"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring,kafka,flask,go,laravel,nestjs" alt="Backend"/></a>
 </p>
 
 ### Database
