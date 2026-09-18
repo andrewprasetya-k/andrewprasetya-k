@@ -48,7 +48,7 @@ public class Developer {
 ### Languages
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=go,python,js,php,java" alt="Languages 1"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,go,python,js,php" alt="Languages 1"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,ts" alt="Languages 2"/></a>
 </p>
 
@@ -61,13 +61,13 @@ public class Developer {
 ### Backend
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=flask,go,laravel,spring,nestjs" alt="Backend"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring,kafka,flask,go,laravel,spring,nestjs" alt="Backend"/></a>
 </p>
 
 ### Database
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" alt="Databases"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite,mongodb" alt="Databases"/></a>
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
