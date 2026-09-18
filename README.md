@@ -17,7 +17,7 @@
 ```java
 public class Developer {
 
-    private final String name = "Andrew Prasetya";
+    private final String name = "Andrew Prasetya Kusuma";
     private final String role = "Backend Developer | Software Engineer";
 
     public String sayHi() {
